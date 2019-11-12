@@ -5,6 +5,7 @@ section.resume-section {
   .resume-item {
     .resume-content {}
     .resume-date {
+      color: $gray-800 !important;
       min-width: none;
     }
   }
@@ -14,6 +15,7 @@ section.resume-section {
     min-height: 100vh;
     .resume-item {
       .resume-date {
+        color: $gray-800 !important;
         min-width: 18rem;
       }
     }
